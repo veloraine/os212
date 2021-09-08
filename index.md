@@ -5,10 +5,10 @@
 Welcome to my repository for Operating Systems 2021-2 course
 
 ## Important
+[Home](index.md) | 
+[Log](https://veloraine.github.io/os212/TXT/mylog.txt) | 
+[GitHub](https://github.com/veloraine/os212/) | 
+[Links](links.md)
 
-* [Log](https://veloraine.github.io/os212/TXT/mylog.txt)
-* [GitHub](https://github.com/veloraine/os212/)
-* [Links](links.md)
-
-## Check out my top links every week
+©Brandon Ivander
 
