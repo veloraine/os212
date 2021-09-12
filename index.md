@@ -1,10 +1,7 @@
 # 🖥️ Brandon Ivander's OS212 Repository
 
 ## Navigation
-| [Home](index.md) | 
-| [Log](https://veloraine.github.io/os212/TXT/mylog.txt) | 
-| [GitHub](https://github.com/veloraine/os212/) | 
-[Links](links.md) |
+[Home](index.md) | [Log](https://veloraine.github.io/os212/TXT/mylog.txt) | [GitHub](https://github.com/veloraine/os212/) | [Links](links.md)
 
 Welcome to my repository for Operating Systems 2021-2 course
 
