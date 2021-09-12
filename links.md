@@ -21,5 +21,5 @@ Mengenal lebih dalam mengenai Sistem Operasi yang bekerja pada perangkat yang ki
 
 [3. Intro to Linux](https://www.geeksforgeeks.org/introduction-to-linux-operating-system/)
 
-Mengenal tentang apa itu linux dan bagaimana cara kerjanya. Web ini juga dilengkapi dengan video tentang linux bagi pemula.
+Mengenal tentang apa itu linux dan bagaimana cara kerjanya. Web ini juga dilengkapi dengan sebuah video yang menjelaskan mengnai linux bagi orang-orang yang baru saja terjun ke dunia linux.
 
