@@ -18,3 +18,5 @@ ZCZC W01  20 L06 References/Books/Documents/GSGS related
 ZCZC W01  20 L01 SCELE/Discord related
 ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01  30 L11 Assignment #01 revision, etc.
+ZCZC W01  90 L25 Scripting
+ZCZC W01  15 L08 AsDos: asking, etc.
