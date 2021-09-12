@@ -20,3 +20,4 @@ ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01  30 L11 Assignment #01 revision, etc.
 ZCZC W01  90 L25 Scripting
 ZCZC W01  15 L08 AsDos: asking, etc.
+ZCZC W01  10 L04 GitHub Pages related
