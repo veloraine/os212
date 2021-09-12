@@ -13,7 +13,8 @@ ZCZC W00  30 L64 Helping OS related problem to a friend
 ZCZC W00 100 L06 References/Books/Documents/GSGS related
 ZCZC W00   5 L05 Quiz related
 ZCZC W01 100 L02 ZOOM meetings related
-ZCZC W01 400 L09 Assignment W01 in general
+ZCZC W01 400 L11 Assignment #01 setup Debian in PC
 ZCZC W01  20 L06 References/Books/Documents/GSGS related
 ZCZC W01  20 L01 SCELE/Discord related
 ZCZC W01 100 L02 ZOOM meetings related
+ZCZC W01  30 L11 Assignment #01 revision, etc.
