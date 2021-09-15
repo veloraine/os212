@@ -30,6 +30,6 @@ permalink: /LINKS/
 
 2. [Apa itu GPG Key](https://www.quora.com/What-are-GPG-keys-How-are-they-used-in-Linux)<br>Mengenal apa itu GPG (GNU Privacy Guard) dan bagaimana cara kerjanya. Disini juga dijelaskan kegunaan GPG key. Tersedia pula video yang menjelaskan tentang GPG Key.
 
-3. [Guide to C language](https://www.tutorialspoint.com/cprogramming/c_quick_guide.htm)<br>OS dibuat menggunakan bahasa C. Jadi ada baiknya mempelajari dasar bahasa C sebelum mendalami OS lebih lanjut. Web ini menyediakan syntax dasar yang digunakan dalam bahasa pemrograman C dan cara menggunakannya.
+3. [Guide to C Language](https://www.tutorialspoint.com/cprogramming/c_quick_guide.htm)<br>OS dibuat menggunakan bahasa C. Jadi ada baiknya mempelajari dasar bahasa C sebelum mendalami OS lebih lanjut. Web ini menyediakan syntax dasar yang digunakan dalam bahasa pemrograman C dan cara menggunakannya.
 
 4. [Intro to Cyber Security](https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security)<br>Mengenal lebih dahulu mengenai apa itu Cyber Security dan bagaimana cara kerjanya. Karena pada OS kita mempelajari mengenai security dan protection ada baiknya mempelajari lebih dahulu dasar-dasar dan arti dari Cyber Security.
