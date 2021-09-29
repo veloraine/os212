@@ -35,8 +35,17 @@ permalink: /LINKS/
 4. [Intro to Cyber Security](https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security)<br>Mengenal lebih dahulu mengenai apa itu Cyber Security dan bagaimana cara kerjanya. Karena pada OS kita mempelajari mengenai security dan protection ada baiknya mempelajari lebih dahulu dasar-dasar dan arti dari Cyber Security.
 
 **Week03**
+
 1. [Intro to FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>Mengenal mengenai Filesystem in Userspace atau yang disingkat FUSE. Web ini bersifat ramah bagi pemula karena menjelaskan tentang FUSE dari tingkat paling dasar hingga tingkat yang lebih lanjut.
 
 2. [Mengenal LINUX File System](https://www.javatpoint.com/linux-file-system)<br>Beberapa orang mungkin masih baru dalam dunia LINUX dan masih tidak familiar dengan cara kerja sistem file pada LINUX. Website ini menjelaskan mengenai pengertian sistem file LINUX, tipe sistem file,  hierarki, fitur-fitur pada LINUX file system, dan masih banyak lagi.
 
 3. [Setup dan Kegunaan Bash Aliases](https://opensource.com/article/19/7/bash-aliases)<br>Website ini menjelaskan cara setup file .bash_aliases pada LINUX dan menjelaskan kegunaan dan alasan mengapa kita harus mempunyai .bash_aliases pada LINUX. Penjelasan dan langkah-langkah pada web ini bagus dan jelas.
+
+**Week04**
+
+1. [Kegunaan dan manfaat SHA256SUM](https://www.linuxsec.org/2019/10/sha256sum.html)<br>Mungkin pada minggu sebelumnya masih banyak yang mengubah file setelah filenya diverifikasi integritasnya dengan SHA256SUM. Website ini menjelaskan tentang kegunaan SHA256SUM dan manfaat menggunakannya dalam mengirim data.
+
+2. [Konsep Little dan Big Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)<br>Konsep Little Endian dan Big Endian sudah dipelajari sebelumnya pada mata kuliah POK, tetapi mungkin sudah ada beberapa yang lupa. Website ini menampilkan konsep Little dan Big Endian secara singkat dan jelas.
+
+3. [C Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)<br>Pointer memang sudah pernah dipelajari sebelumnya menggunakan bahasa MIPS dan AVR. Dalam bahasa C juga terdapat konsep pointer. Untuk mengenal lebih lanjut,  webiste ini menjelaskan tentang bagaimana menggunakan pointer pada C dengan jelas dan singkat.
