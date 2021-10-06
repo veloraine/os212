@@ -49,3 +49,11 @@ permalink: /LINKS/
 2. [Konsep Little dan Big Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)<br>Konsep Little Endian dan Big Endian sudah dipelajari sebelumnya pada mata kuliah POK, tetapi mungkin sudah ada beberapa yang lupa. Website ini menampilkan konsep Little dan Big Endian secara singkat dan jelas.
 
 3. [C Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)<br>Pointer memang sudah pernah dipelajari sebelumnya menggunakan bahasa MIPS dan AVR. Dalam bahasa C juga terdapat konsep pointer. Untuk mengenal lebih lanjut,  webiste ini menjelaskan tentang bagaimana menggunakan pointer pada C dengan jelas dan singkat.
+
+**Week05**
+
+1. [Intro to Virtual Memory](https://searchstorage.techtarget.com/definition/virtual-memory)<br>Sebuah penjelasan singkat mengenai apa virtual memory dan cara kerjanya di komputer. Website ini menjelaskan secara lengkap mengenai virtual memory dan dilengkapi sebuah video penjelasan.
+
+2. [Perbedaan Virtual dan Physical Memory](https://pediaa.com/what-is-the-difference-between-physical-and-virtual-memory/)<br>Website ini menjelaskan perbedaan antara virtual dan physical memory. Walaupun kelihatannya hanya beda dalam wujud, ternyata ada beberapa perbedaan lain seperti aksesbilitas ke CPU, kecepatan, dan masih banyak lagi.
+
+3. [Minimum Requirements to Boot DEBIAN](https://www.debian.org/releases/jessie/mips/ch03s04.html.en)<br>Requirements untuk boot up DEBIAN pada komputer. Mungkin banyak yang mendapatkan hasil berbeda-beda. Inilah patokan yang paling tepat dijadikan referensi sebelum debian crash.
