@@ -97,4 +97,4 @@ ZCZC W05  90 L32 YouTube: study, etc.
 ZCZC W05  60 L11 Assignment #01
 ZCZC W05  60 L12 Assignment #02
 ZCZC W05  90 L13 Assignment #03
-
+ZCZC W05  30 L64 Helping OS related problem to a friend about C language
