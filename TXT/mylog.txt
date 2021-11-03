@@ -121,3 +121,19 @@ ZCZC W06  30 L26 C-language
 ZCZC W06  30 L32 YouTube: study, etc.
 ZCZC W06  15 L06 References/Books/Documents/GSGS related
 ZCZC W06  60 L64 Helping OS related problem to a friend.
+ZCZC W07   5 L00 General, etc.
+ZCZC W07  15 L01 SCELE/Discord related
+ZCZC W07  20 L05 Quiz related
+ZCZC W07  35 L06 References/Books/Documents/GSGS related
+ZCZC W07  45 L02 ZOOM meetings related
+ZCZC W07 120 L32 YouTube: study, etc.
+ZCZC W07  15 L64 Helping OS related problem to a friend.
+ZCZC W07  40 L11 Assignment #01
+ZCZC W07  30 L12 Assignment #02
+ZCZC W07  65 L13 Assignment #03
+ZCZC W07 120 L14 Assignment #04
+ZCZC W07  20 L15 Assignment #05
+ZCZC W07  15 L06 References/Books/Documents/GSGS related
+ZCZC W07  10 L17 Assignment #07
+ZCZC W07  15 L18 Assignment #08
+ZCZC W07   5 L19 Assignment #09

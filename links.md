@@ -59,9 +59,17 @@ permalink: /LINKS/
 3. [Minimum Requirements to Boot DEBIAN](https://www.debian.org/releases/jessie/mips/ch03s04.html.en)<br>Requirements untuk boot up DEBIAN pada komputer. Mungkin banyak yang mendapatkan hasil berbeda-beda. Inilah patokan yang paling tepat dijadikan referensi sebelum debian crash.
 
 **Week06**
+
 1. [Multicore Programming](https://www.tutorialspoint.com/what-is-multicore-programming)<br>Istilah Multicore programming mungkin sudah sering didengar dan sudah diimplementasikan dalam sebagian besar perangkat yang digunakan. Website ini menyediakan penjelasan singkat mengenai apa itu multicore programming, cara kerja, dan manfaatnya.
 
 2. [About Fork System Call](https://www.geeksforgeeks.org/fork-system-call/)<br>Mengenal lebih dalam mengenai fork() dalam bahasa C. Memang ini adalah topik yang tidak terlalu mudah, tetapi penjelasan dalam website ini sangat mudah dimengerti bagi pemula.
 
 3. [Threading Issues](https://binaryterms.com/threading-issues-in-os.html)<br>Walaupun kelihatannya multithreading sangat membantu dan sudah menjadi bagian dari perangkat yang digunakan, masih ada beberapa masalah yang muncul ketika berada di dalam multithread environment. Website ini menjelaskan masalah-masalah pa ayang muncul dan cara menyelesaikan masalah yang muncul.
 
+**Week07**
+
+1. [Multi Processing and Multi Threading](https://blogs.uajy.ac.id/idekom/2019/08/23/pengertian-multi-processing-dan-multi-threading-pada-komputer/)<br>Mengenal pengertian multi processing dan multi threading. Website ini menjelaskan dasar-dasar yang diperlukan untuk mempelajari lebih lanjut materi tersebut.
+
+2. [Intro to Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>Process synchronization adalah cara untuk mengatur proses yang menggunakan shared data. Mungkin istilah dan cara kerja synchronization cukup asing bagi sebagian besar orang. Website ini menjelaskan dasar dari process synchronization sampai dengan detilnya.
+
+3. [Deadlock in Operating Systems](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>Saat mempelajari tentang processing maka akan bertemu dengan istilah baru yaitu deadlock. Website ini menjelaskan mengenai deadlock dalam bentuk artikel dan video.
