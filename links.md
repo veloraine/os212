@@ -73,3 +73,12 @@ permalink: /LINKS/
 2. [Intro to Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>Process synchronization adalah cara untuk mengatur proses yang menggunakan shared data. Mungkin istilah dan cara kerja synchronization cukup asing bagi sebagian besar orang. Website ini menjelaskan dasar dari process synchronization sampai dengan detilnya.
 
 3. [Deadlock in Operating Systems](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>Saat mempelajari tentang processing maka akan bertemu dengan istilah baru yaitu deadlock. Website ini menjelaskan mengenai deadlock dalam bentuk artikel dan video.
+
+**Week08**
+
+1. [Multiprocessing in Operating Systems](https://science.jrank.org/programming/Multiprocessing_Operating_Syst.html)<br>Multiprocessing mungkin sudah bukan istilah yang asing lagi. Komputer pada zaman sekarang umumnya sudah di desain memiliki banyak CPU. Website ini menjelaskan mengenai bagaimana Multiprocessing bekerja pada suatu sistem operasi komputer.
+
+2. [Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>Dengan adanya multiprocessing, diperlukan suatu pengatur untuk memantau proses yang terjadi pada CPU yang berbeda-beda. Maka dari itu, harus dipelajari terlebih dahulu mengenai process scheduling. Website ini menjelaskan mengenai process scheduling dari dasar hingga lengkap.
+
+3. [Linux From Scratch](https://www.linuxfromscratch.org/)<br>Pada pekan ini diberikan tugas untuk membangun Linux. Ini adalah website official Linux from Scratch yang berisi sebuah buku online mengenai cara membuat sistem operasi Linux dari sumbernya.
+

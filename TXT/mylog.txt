@@ -143,3 +143,19 @@ ZCZC W07  60 L07 Demo related
 ZCZC W07  60 L26 C-language
 ZCZC W07  40 L64 Helping OS related problem to a friend
 ZCZC W07  30 L06 References/Books/Documents/GSGS related
+ZCZC W08  10 L01 SCELE/Discord related
+ZCZC W08  30 L06 References/Books/Documents/GSGS related
+ZCZC W08  20 L05 Quiz related
+ZCZC W08 120 L32 YouTube: Asynchronus
+ZCZC W08  40 L11 Assignment #01
+ZCZC W08  60 L12 Assignment #02
+ZCZC W08  30 L13 Assignment #03
+ZCZC W08 170 L14 Assignment #04
+ZCZC W08 150 L15 Assignment #05
+ZCZC W08  30 L16 Assignment #06
+ZCZC W08  30 L06 References/Books/Documents/GSGS related
+ZCZC W08  15 L18 Assignment #08
+ZCZC W08  10 L19 Assignment #09
+ZCZC W08   5 L20 Assignment #10
+ZCZC W08 100 L02 ZOOM meetings related
+ZCZC W08  30 L64 Helping OS related problem to a friend.
